@@ -1,5 +1,5 @@
 #Updater
-dir="$HOME/color"
+dir="color"
 cd $HOME/$dir
 git checkout origin/master *
 echo "Searching for updates. Please wait :)"
