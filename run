@@ -37,5 +37,5 @@ reset='\e[0m'
 ##End Colors
 
 #Test
-echo "$cyan Hello $reset"
+echo -e "$cyan Hello $reset"
 #End Test
